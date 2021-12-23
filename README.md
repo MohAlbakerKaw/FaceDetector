@@ -10,5 +10,3 @@ Interesting approaches to be utilized to make the approach functional.
 Data augmentation is going to increase the images in our dataset.
 
 Transfer learning is going to provide us with a trained model to recognize faces to build upon.
-
-Hyperparameter tuning is going to record the best hyperparameters for our deep model.
