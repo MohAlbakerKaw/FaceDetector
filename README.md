@@ -12,3 +12,5 @@ Then we modified the models parameters by training it on our dataset.<br />
 finally, the model was tested on the test set and achieved 92.5% accuracy.<br />
 Other performance metrics (precision and recall) aren't taken into consideration becuase the dataset is balanced.<br />
 Moreover, the system was tested on new data too and it did well. <br /> 
+
+Codes are stored in notebooks file. <br />
