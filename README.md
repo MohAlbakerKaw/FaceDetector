@@ -1,8 +1,6 @@
 # FaceDetector
-The purpose of this code is to test the SageMaker studio lab.
-
-We are trying to build a deep model to recognize faces. 
-
+The purpose of this code is to test the SageMaker studio lab.__
+We are trying to build a deep model to recognize faces.__
 The dataset will be stricted.
 
 Interesting approaches to be utilized to make the approach functional.
