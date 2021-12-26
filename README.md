@@ -1,4 +1,4 @@
-# FaceDetector
+# FaceRecognition
 We are trying to build a deep model to recognize faces.<br />
 The dataset is stricted to 5 images for each face.<br />
 Five images for each (Trump, Putin, and Obama) are added as original images (our entire dataset).<br /> 
