@@ -7,7 +7,7 @@ Data augmentation increases the images in our dataset.<br />
 Image augmentation techniques used are scaling, cropping, flipping, padding, rotation, and translation.<br />
 Transfer learning provided us with a trained model to recognize faces.<br />
 The trained model used is VGG16.<br />
-We fine tuned the trained model to meet the specifications of out system.<br />
+We fine tuned the trained model to meet the specifications of our system.<br />
 Then we modified the models parameters by training it on our dataset.<br />
 finally, the model was tested on the test set and achieved 92.5% accuracy.<br />
 Other performance metrics (precision and recall) aren't taken into consideration becuase the dataset is balanced.<br />
