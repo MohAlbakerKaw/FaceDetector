@@ -11,6 +11,11 @@ We fine tuned the trained model to meet the specifications of out system.<br />
 Then we modified the models parameters by training it on our dataset.<br />
 finally, the model was tested on the test set and achieved 92.5% accuracy.<br />
 Other performance metrics (precision and recall) aren't taken into consideration becuase the dataset is balanced.<br />
-Moreover, the system was tested on new data too and it did well. <br /> 
+Moreover, the system was tested on new data too and it did well.<br /> 
 
-Codes are stored in notebooks file. <br />
+Codes are stored in notebooks file.<br />
+
+Original images folder contains the images taken from the internet without any processing.<br />
+Extracted Faces folder contains the faces extracted from the original images using Haar Cascade.<br />
+Augmented folder contains the augmented images.<br />
+Processed Folder contains splitted folders. Training, validation, and testing sets.<br />
